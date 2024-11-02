@@ -13,9 +13,9 @@ Knowledgeable in protocols and the essentials of secure network configurations.
 
 📫 How to reach me:
 
-Official website: ghad-ebdai.com
+Official website: https://ghad-ebdai.com
 
-Facebook: facebook.com/ADN557
+Facebook: https://facebook.com/ADN557
 
 Telegram: @AdnCyber
 
