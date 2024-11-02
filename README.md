@@ -13,9 +13,10 @@ Knowledgeable in protocols and the essentials of secure network configurations.
 
 📫 How to reach me:
 Official website: ghad-ebdai.com
+
 Facebook: facebook.com/ADN557
+
 Telegram: @AdnCyber
-GitHub: AdnanNasr
 
 ⚡ Fun fact: I’m fascinated by the intricate world of network security and always excited about mastering the latest in web and bot technology.
 
