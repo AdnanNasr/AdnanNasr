@@ -9,7 +9,7 @@ Proficient in Python for various applications, from automation to bot developmen
 Skilled in setting up local servers and managing networks.
 Knowledgeable in protocols and the essentials of secure network configurations.
 
-💞️ Looking to collaborate: Always open to collaborating on cybersecurity projects, bot development, and any impactful tech innovations.
+💚 Looking to collaborate: Always open to collaborating on cybersecurity projects, bot development, and any impactful tech innovations.
 
 📫 How to reach me:
 
