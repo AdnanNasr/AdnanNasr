@@ -12,6 +12,7 @@ Knowledgeable in protocols and the essentials of secure network configurations.
 💞️ Looking to collaborate: Always open to collaborating on cybersecurity projects, bot development, and any impactful tech innovations.
 
 📫 How to reach me:
+
 Official website: ghad-ebdai.com
 
 Facebook: facebook.com/ADN557
