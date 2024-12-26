@@ -1,23 +1,21 @@
-👋 Hi, I’m @AdnanNasr
+👋 مرحبًا، أنا @AdnanNasr
 
-👀 Interests: Passionate about cybersecurity, with a particular interest in local servers, network protocols, and web security. I am also experienced in web development, including WordPress and custom site creation.
+👀 اهتماماتي: شغوف بالأمن السيبراني، مع اهتمام خاص بالخوادم المحلية، بروتوكولات الشبكات، وأمن المواقع. لدي أيضًا خبرة في تطوير المواقع، بما في ذلك ووردبريس وإنشاء المواقع المخصصة.
 
-🌱 Currently learning: Continuously enhancing my skills in cybersecurity and currently expanding my knowledge in Java programming.
+🌱 ما أتعلمه حاليًا: أعمل على تحسين مهاراتي في الأمن السيبراني وأوسع معرفتي حاليًا في برمجة جافا.
 
-💻 Technical Skills:
-Proficient in Python for various applications, from automation to bot development.
-Skilled in setting up local servers and managing networks.
-Knowledgeable in protocols and the essentials of secure network configurations.
+💻 المهارات التقنية:
+متمكن في بايثون لتطبيقات متعددة، من الأتمتة إلى تطوير البوتات.
+ماهر في إعداد الخوادم المحلية وإدارة الشبكات.
+مطلع على البروتوكولات وأساسيات تكوين الشبكات الآمنة.
 
-💚 Looking to collaborate: Always open to collaborating on cybersecurity projects, bot development, and any impactful tech innovations.
+💚 أبحث عن فرص للتعاون: دائمًا مفتوح للتعاون في مشاريع الأمن السيبراني، تطوير البوتات، وأي ابتكارات تقنية مؤثرة.
 
-📫 How to reach me:
+📫 كيفية الوصول إلي:
+الموقع الرسمي: https://ghad-ebdai.com
 
-Official website: https://ghad-ebdai.com
+فيسبوك: https://facebook.com/ADN557
 
-Facebook: https://facebook.com/ADN557
+تيليجرام: @AdnCyber
 
-Telegram: @AdnCyber
-
-⚡ Fun fact: I’m fascinated by the intricate world of network security and always excited about mastering the latest in web and bot technology.
-
+⚡ حقيقة ممتعة: أنا مفتون بعالم أمان الشبكات المعقد، ودائمًا متحمس لإتقان أحدث تقنيات الويب والبوتات.
