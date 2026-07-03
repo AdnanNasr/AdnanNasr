@@ -1,8 +1,7 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=green&height=200&section=header&text=Adnan%20Nasr&fontSize=40)
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdnanNasr&theme=radical" height="180" alt="GitHub Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdnanNasr&theme=radical" height="180" alt="Most Commit Language" />
-</p>
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/AdnanNasr/AdnanNasr/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/AdnanNasr/AdnanNasr/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
