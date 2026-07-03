@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=Adnan%20Nasr&fontSize=50&fontColor=fff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=250&section=header&text=Adnan%20Nasr&fontSize=50&fontColor=fff&animation=fadeIn" width="100%" />
 
 <div align="center">
 
