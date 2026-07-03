@@ -58,4 +58,4 @@ I am a passionate Mobile Application Developer specialized in creating seamless,
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer)
+<div align="center">![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer)</div>
