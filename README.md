@@ -1,78 +1,55 @@
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/AdnanNasr/AdnanNasr/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/AdnanNasr/AdnanNasr/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=Adnan%20Nasr&fontSize=50&fontColor=fff&animation=fadeIn)
+
+<div align="center">
+
+### Mobile Developer | Berlin
+
+I am a passionate Mobile Application Developer specialized in creating cross-platform apps using Flutter & Dart, alongside building robust backends with FastAPI & Python. I love diving into system administration, networking, and security.
+
 </div>
 
-###
+---
 
-<br clear="both">
+### 💻 Tech Stack
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="279" src="https://octodex.github.com/images/NUX_Octodex.gif"  />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-333?style=for-the-badge&logo=fastapi&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-333?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-333?style=for-the-badge&logo=firebase&logoColor=white) ![Supabse](https://img.shields.io/badge/Supabse-333?style=for-the-badge&logo=supabse&logoColor=white) ![Android](https://img.shields.io/badge/Android-333?style=for-the-badge&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-333?style=for-the-badge&logo=ios&logoColor=white) ![Sqflite](https://img.shields.io/badge/Sqflite-333?style=for-the-badge&logo=sqflite&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-333?style=for-the-badge&logo=googlecloud&logoColor=white) ![PostgresSQL](https://img.shields.io/badge/PostgresSQL-333?style=for-the-badge&logo=postgressql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-333?style=for-the-badge&logo=postman&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-333?style=for-the-badge&logo=digitalocean&logoColor=white) ![WooCommerce](https://img.shields.io/badge/WooCommerce-333?style=for-the-badge&logo=woocommerce&logoColor=white) ![Wordpress](https://img.shields.io/badge/Wordpress-333?style=for-the-badge&logo=wordpress&logoColor=white) ![Apache Server](https://img.shields.io/badge/Apache%20Server-333?style=for-the-badge&logo=apacheserver&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-333?style=for-the-badge&logo=nginx&logoColor=white) ![VPS & Cloud Managment](https://img.shields.io/badge/VPS%20%26%20Cloud%20Managment-333?style=for-the-badge&logo=vps&cloudmanagment&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdnanNasr&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdnanNasr&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
+
 </div>
 
-###
+---
 
-<br clear="both">
+### 🌱 Currently
 
-<div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="24" />
-  <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  />
-  <img width="24" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="30" alt="fastapi logo"  />
-  <img width="24" />
-  <img src="https://cdn.simpleicons.org/dart/0175C2" height="30" alt="dart logo"  />
-  <img width="24" />
-  <img src="https://cdn.simpleicons.org/flutter/02569B" height="30" alt="flutter logo"  />
-  <img width="24" />
-  <img src="https://cdn.simpleicons.org/android/3DDC84" height="30" alt="android logo"  />
-  <img width="24" />
-  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="30" alt="supabase logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="30" alt="digitalocean logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="24" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"  />
-  <img width="24" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="30" alt="insomnia logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="30" alt="woocommerce logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
+- 📚 Learning: **Web Dev**
+
+---
+
+### 📫 Let's Connect
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ghad-ebdai.com) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adnzed00@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdnanNasr)
+
 </div>
 
-###
+---
 
-<div data-importer="socials" align="center">
-  <a href="adnzed00@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="28" alt="gmail logo"  />
-  </a>
-  <a href="https://www.facebook.com/ADN557/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" height="28" alt="facebook logo"  />
-  </a>
-  <a href="https://t.me/AdnCyber" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="40" height="28" alt="telegram logo"  />
-  </a>
+---
+
+---
+
+<div align="center">
+
 </div>
 
-###
-
-<br clear="both">
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/AdnanNasr/AdnanNasr/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
-<p data-importer="text" align="left">I am a passionate Mobile Application Developer specialized in creating cross-platform apps using **Flutter & Dart**, alongside building robust backends with **FastAPI & Python**. I love diving into system administration, networking, and security.<br><br>- 📱 **Currently working on:** Advanced Flutter application architecture and backend integration.<br>- 🐳 **Tech stack focus:** Containerization with Docker, Cloud VPS deployments, and local data persistence.<br>- ⚙️ **Core Philosophy:** Writing clean, maintainable code following best practices.</p>
-
-###
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer)
