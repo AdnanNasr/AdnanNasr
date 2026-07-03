@@ -1,8 +1,8 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=green&height=200&section=header&text=Adnan%20Nasr&fontSize=40)
-<div data-importer="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdnanNasr&show_icons=true&include_all_commits=true&count_private=true&theme=radical&locale=en" height="150" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdnanNasr&layout=compact&card_width=320&langs_count=5&theme=radical&locale=en" height="150" alt="languages graph" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=AdnanNasr&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Adnan's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=AdnanNasr&layout=compact&theme=radical&langs_count=5" alt="Top Languages" height="150" />
+</p>
 
 ###
 
