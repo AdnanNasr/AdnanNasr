@@ -1,10 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=250&section=header&text=Adnan%20Nasr&fontSize=50&fontColor=fff&animation=fadeIn" width="100%" />
 <div align="center">
 
-## 🚀 Software Engineer | Full-Stack & Systems Developer
+## 🚀 Full-Stack Developer | Mobile & Backend Specialist
 
 🎯 **Looking for New Opportunities**  
-I am a passionate Software Engineer focused on building robust, end-to-end applications. My expertise spans creating seamless mobile experiences using **Flutter & Dart**, designing high-performance backends and APIs with **FastAPI & Python**, managing databases, and orchestrating server infrastructure on **Cloud/VPS** using **Docker**. I also build automated systems and intelligent bots for platforms like Telegram and Slack.
+I am a passionate Full-Stack Developer focused on building robust, end-to-end applications. My expertise spans creating seamless mobile experiences using **Flutter & Dart**, designing high-performance backends and APIs with **FastAPI & Python**, managing databases, and orchestrating server infrastructure on **Cloud/VPS** using **Docker**. I also build automated systems and intelligent bots for platforms like Telegram and Slack.
 
 </div>
 
