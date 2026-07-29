@@ -29,12 +29,11 @@ I am a passionate Full-Stack Developer focused on building robust, end-to-end ap
 
 ---
 
-### 📈 GitHub Statistics
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Adnannasr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Adnannasr&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Adnannasr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdnanNasr&theme=radical" height="180" alt="GitHub Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdnanNasr&theme=radical" height="180" alt="Most Commit Language" />
-</p>
 
 ---
 
