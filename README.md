@@ -63,6 +63,11 @@ Outside of coding, I enjoy exploring new technologies, improving my engineering 
 # 🌐 Connect with Me
 
 <p align="center">
+  <a href="https://adnannasr.com">
+    <img src="https://api.iconify.design/material-symbols:language.svg" width="30" height="30" alt="Website"/>
+  </a>
+  &nbsp;&nbsp;
+
   <a href="mailto:adnzed00@gmail.com">
     <img src="https://api.iconify.design/logos:google-gmail.svg" width="30" height="30" alt="Email"/>
   </a>
