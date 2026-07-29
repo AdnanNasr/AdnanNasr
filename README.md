@@ -1,59 +1,79 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=250&section=header&text=Adnan%20Nasr&fontSize=50&fontColor=fff&animation=fadeIn" width="100%" />
-<div align="center">
+# 💫 About Me
 
-## 🚀 Full-Stack Developer | Mobile & Backend Specialist
+I'm a **Software Developer** passionate about building scalable applications, elegant user experiences, and reliable backend systems.
 
-🎯 **Looking for New Opportunities**  
-I am a passionate Full-Stack Developer focused on building robust, end-to-end applications. My expertise spans creating seamless mobile experiences using **Flutter & Dart**, designing high-performance backends and APIs with **FastAPI & Python**, managing databases, and orchestrating server infrastructure on **Cloud/VPS** using **Docker**. I also build automated systems and intelligent bots for platforms like Telegram and Slack.
+My primary expertise is **Flutter**, complemented by experience with **Python, FastAPI, REST APIs, databases, cloud services, and automation tools**. I enjoy designing clean architectures, optimizing performance, and turning ideas into production-ready software.
 
-</div>
+Currently, I'm expanding my expertise in **React, AI, and SaaS development** while actively contributing to open-source projects.
 
----
-
-### 💻 Tech Stack & Tools
-
-🚀 **Mobile Development**  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-
-⚙️ **Backend, Automation & Bots**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Strapi](https://img.shields.io/badge/Strapi-2F2E6F?style=for-the-badge&logo=strapi&logoColor=white)
-
-🗄️ **Databases**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-🐳 **DevOps, Cloud & Infrastructure**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux Server](https://img.shields.io/badge/Linux_Server-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-
-🛠️ **Testing & Tools**  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+Outside of coding, I enjoy exploring new technologies, improving my engineering skills, and creating software that delivers real value.
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Adnannasr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Adnannasr&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Adnannasr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# 💻 Tech Stack
 
----
-
-### 🌱 Currently Focusing On
-
-- 🔒 Enhancing my expertise in software security, clean architecture, and advanced system automation.
-- 🌐 Building fully containerized, high-availability web applications and APIs.
-
----
-
-### 📫 Let's Connect & Collaborate
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ghad-ebdai.com) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adnzed00@gmail.com) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdnanNasr)
-
-</div>
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=flat&logo=sentry&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer" width="100%" />
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=AdnanNasr&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AdnanNasr&theme=github_dark&hide_border=false&layout=compact" />
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=AdnanNasr&theme=github_dark&hide_border=false" />
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=AdnanNasr&olumn=3&theme=darkhub" alt="GitHub Trophies" />
+</p>
+
+---
+
+# 🌐 Connect with Me
+
+<p align="center">
+  <a href="mailto:adnzed00@gmail.com">
+    <img src="https://api.iconify.design/logos:google-gmail.svg" width="30" height="30" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://www.facebook.com/ADN557">
+    <img src="https://api.iconify.design/logos:facebook.svg" width="30" height="30" alt="Facebook"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://www.instagram.com/adnan_nasr7">
+    <img src="https://api.iconify.design/skill-icons:instagram.svg" width="30" height="30" alt="Instagram"/>
+  </a>
+</p>
