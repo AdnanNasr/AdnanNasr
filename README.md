@@ -64,7 +64,7 @@ Outside of coding, I enjoy exploring new technologies, improving my engineering 
 
 <p align="center">
   <a href="https://adnannasr.com">
-    <img src="https://api.iconify.design/material-symbols:language.svg" width="30" height="30" alt="Website"/>
+    <img src="https://api.iconify.design/material-symbols:language.svg?color=white" width="30" height="30" alt="Website"/>
   </a>
   &nbsp;&nbsp;
 
