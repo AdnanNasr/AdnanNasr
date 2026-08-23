@@ -1,4 +1,4 @@
-# ⭐ About Me
+# About Me
 
 I'm a **Software Developer** passionate about building scalable applications, elegant user experiences, and reliable backend systems.
 
