@@ -1,84 +1,61 @@
-# About Me
+# Hi, I'm Adnan Nasr 👋
 
-I'm a **Software Developer** passionate about building scalable applications, elegant user experiences, and reliable backend systems.
+**Software Developer** focused on building practical, maintainable applications with **Flutter** and **Python**.
 
-My primary expertise is **Flutter**, complemented by experience with **Python, FastAPI, REST APIs, databases, cloud services, and automation tools**. I enjoy designing clean architectures, optimizing performance, and turning ideas into production-ready software.
+I enjoy turning ideas into production-ready products — from mobile interfaces and offline-first features to REST APIs and backend services.
 
-Currently, I'm expanding my expertise in **React, AI, and SaaS development** while actively contributing to open-source projects.
+- 📱 Building cross-platform applications with Flutter
+- ⚙️ Developing APIs and backend services with Python & FastAPI
+- 🧩 Interested in clean architecture, performance, and product-focused engineering
+- 🌱 Currently expanding into React, SaaS, and AI-powered applications
+- 🌐 [adnannasr.com](https://adnannasr.com)
 
-Outside of coding, I enjoy exploring new technologies, improving my engineering skills, and creating software that delivers real value.
+## Tech Stack
 
----
+### Mobile
 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-# 💻 Tech Stack
+### Backend
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=flat&logo=sentry&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
----
+### Tools & Services
 
-# 📊 GitHub Statistics
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
-<p align="center">
+## Selected Projects
 
-<img height="170" src="https://github-readme-stats.shion.dev/api?username=AdnanNasr&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" />
+### [Zad Al-Muslim](https://github.com/AdnanNasr/Zad_Al-Muslim)
 
-<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=AdnanNasr&theme=github_dark&hide_border=false&layout=compact" />
+A production Flutter application for Quran reading, Tafseer, Hadith, prayer times, Qibla, Adkar, and audio recitations.
 
-</p>
+**Highlights:** Clean Architecture · Riverpod · Isar · Background Audio · Notifications · Offline-first Features
 
-<p align="center">
+### [Zad Al-Muslim — Tafseer Backend](https://github.com/AdnanNasr/tafseer_backend_app)
 
-<img src="https://streak-stats.demolab.com/?user=AdnanNasr&theme=github_dark&hide_border=false" />
+A lightweight FastAPI backend that serves Quran Tafseer data through REST endpoints.
 
-</p>
+**Tech:** Python · FastAPI · Uvicorn · JSON APIs
 
----
+### [AI Tools Backend API](https://github.com/AdnanNasr/ai_backend_api)
 
-# 🏆 GitHub Trophies
+A REST API for organizing AI tools, categories, and user favorites.
 
-<p align="center">
-<img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=AdnanNasr&olumn=3&theme=darkhub" alt="GitHub Trophies" />
-</p>
+**Tech:** Python · FastAPI · Alembic · REST APIs
+
+## Current Focus
+
+`Flutter` · `Clean Architecture` · `FastAPI` · `React` · `SaaS` · `AI Integration`
 
 ---
 
-# 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://adnannasr.com">
-    <img src="https://api.iconify.design/material-symbols:language.svg?color=white" width="30" height="30" alt="Website"/>
-  </a>
-  &nbsp;&nbsp;
-
-  <a href="mailto:adnzed00@gmail.com">
-    <img src="https://api.iconify.design/logos:google-gmail.svg" width="30" height="30" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;
-
-  <a href="https://www.facebook.com/ADN557">
-    <img src="https://api.iconify.design/logos:facebook.svg" width="30" height="30" alt="Facebook"/>
-  </a>
-  &nbsp;&nbsp;
-
-  <a href="https://www.instagram.com/adnan_nasr7">
-    <img src="https://api.iconify.design/skill-icons:instagram.svg" width="30" height="30" alt="Instagram"/>
-  </a>
-</p>
+[Portfolio](https://adnannasr.com) · [GitHub](https://github.com/AdnanNasr)
